@@ -1,6 +1,5 @@
 # Spam NLP Classifier
 
-# Spam Classification Project
 
 ## Overview
 
